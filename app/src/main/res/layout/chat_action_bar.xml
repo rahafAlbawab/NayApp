@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPurple">
+    <ImageView
+        android:id="@+id/arrow_icon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="23dp"
+        android:layout_marginStart="23dp"
+        android:src="@drawable/arraw"
+        app:tint="@color/White" />
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/celebrity_image"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:layout_toEndOf="@+id/arrow_icon"
+        app:civ_border_width="2dp" />
+    <TextView
+        android:id="@+id/celebrity_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="5dp"
+        android:layout_toEndOf="@+id/celebrity_image"
+        android:textColor="@color/Black"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

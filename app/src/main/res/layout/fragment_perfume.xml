@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+        <Button
+
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="Chanel "
+            android:textColor="@color/Black"
+            android:background="@drawable/button_fragments"
+            android:layout_margin="5dp"
+            android:padding="15dp"
+            android:textSize="11sp"
+            android:id="@+id/chanel_button"
+            />
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:id="@+id/armani_button"
+            android:textColor="@color/Black"
+            android:layout_margin="5dp"
+            android:padding="15dp"
+            android:textSize="11sp"
+            android:background="@drawable/button_fragments"
+            android:text="Armani"
+            />
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:textColor="@color/Black"
+            android:layout_margin="5dp"
+            android:padding="15dp"
+            android:textSize="11sp"
+            android:background="@drawable/button_fragments"
+            android:id="@+id/dior_button"
+            android:text="Dior"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/container_perfume_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" />
+</LinearLayout>
