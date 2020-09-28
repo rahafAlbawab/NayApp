@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_favorite_product_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\favorite_product_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_skin_care.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_skin_care.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_money.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\money.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_hair_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\hair_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_cart.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\delete_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\ic_baseline_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_face.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_face.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_care.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_care.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_celebrities_chat_list_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\celebrities_chat_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconfinder_facebook_square_black_107119.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\iconfinder_facebook_square_black_107119.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_style.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\button_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_logo_anim.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\anim\\splash_logo_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook_icon.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\facebook_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_celebrities_chat_list.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_celebrities_chat_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_report.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\report.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_nails.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_nails.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_language.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\language.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_eyes_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\eyes_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_celebrities_with_chat.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_celebrities_with_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_make_up.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_make_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconfinder_send_326692.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\iconfinder_send_326692.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_small.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\logo_small.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_mail_black_18dp.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\baseline_mail_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_content.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\drawer_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_receive_background.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\text_receive_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_sent.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\text_sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconfinder_user_1608727.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\iconfinder_user_1608727.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconfinder_basket_1370043.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\iconfinder_basket_1370043.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_choose_payment_method_dialog.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\choose_payment_method_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_layout.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\drawer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paypal.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\paypal.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_skin_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\skin_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whatsapp_icon.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\whatsapp_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_name.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\logo_name.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart_border.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\cart_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_lips.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_lips.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_celebrities.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_celebrities.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_calendar_today_black_18dp.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\baseline_calendar_today_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_fragment_style_checked.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\button_fragment_style_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\cart_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_celebrities_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\celebrities_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_name_anim.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\anim\\splash_name_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arraw.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\arraw.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_dior_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\dior_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_recive.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\text_recive.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_chanel_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\chanel_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_fragments.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\button_fragments.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email_icon.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_sent_background.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\text_sent_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_eyes.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_eyes.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chanel.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_chanel.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_nails_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\nails_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_action_bar_layout.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\action_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_tablayout.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\custom_tablayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_action_bar.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\chat_action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_armani.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_armani.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_action_bar_activity.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\action_bar_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_celebrity_page.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_celebrity_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconfinder_whatsapp_246527.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\iconfinder_whatsapp_246527.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgroud_login.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\backgroud_login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\font_peralta.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\font\\peralta.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_fragment_style.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\button_fragment_style.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_image.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\logo_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgroud_login_2.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\backgroud_login_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_hair_care.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_hair_care.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_receive.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\image_receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_armani_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\armani_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_face_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\face_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dior.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_dior.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_item_layout.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\add_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgroud_login_1.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\backgroud_login_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_us.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_lock_open_black_18dp.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\baseline_lock_open_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_lips_view.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\lips_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_report.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconfinder_instagram_104466.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\iconfinder_instagram_104466.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_drawer_icon.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\drawable\\navigation_drawer_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_sent.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\image_sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_perfume.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Nay\\app\\src\\main\\res\\layout\\fragment_perfume.xml"
+    }
+]
